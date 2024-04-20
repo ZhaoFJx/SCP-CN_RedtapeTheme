@@ -1,9 +1,9 @@
 ---
 site: scpsandboxcn
 page: theme:redtape
-revision: 11
+revision: 15
 ---
-[[include :scp-wiki-cn:theme:black-highlighter-theme]]
+[[include :scp-wiki:theme:black-highlighter-theme]]
 [!-- FRAGMENTS
 https://scp-wiki.wikidot.com/fragment:redtape-light
 https://scp-wiki.wikidot.com/fragment:redtape-dark
