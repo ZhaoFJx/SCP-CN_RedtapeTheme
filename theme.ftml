@@ -1,11 +1,11 @@
 ---
 site: scpsandboxcn
 page: theme:redtape
-revision: 17
+revision: 19
 ---
 [[module CSS]]
 /*
-红胶带 版式
+红缎带 版式
 [2022 Wikidot Theme]
 由ROUNDERHOUSE创建
 感谢 estrellayoshte、stormbreath、stephlynch和Woedenaz的建议与帮助。
@@ -22,7 +22,7 @@ EstrellaYoshte 根据SCP基金会徽标创建了基于CC BY SA 3.0许可的时�
 
 /* *** ROOT VARS *** */
 
-:root {
+:root:(zh) {
 	--theme-id: "REDTAPE";
 	--theme-name: "REDTAPE";
 	--logo-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/midnightwhite.png");
