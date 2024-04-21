@@ -2,7 +2,7 @@
 site: scpsandboxcn
 page: theme:redtape
 title: 红缎带 版式
-revision: 70
+revision: 78
 ---
 [[module CSS]]
 @import url("https://bhl.scpwikicn.com/css/min/normalize.min.css");
@@ -1033,47 +1033,47 @@ rnb-.current.raisanav {
 
 [[div class="addendum"]]
 [[div class="doc"]]
-ATTACHED TRANSCRIPT - JUNE 1983
+随附转录 - 1983年六月
 [[/div]]
 [[span class="label"]]@@[[div class="doc"]]@@[[/span]]
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文
 @@ @@
 [[/div]]
 
 [[div class="addendum"]]
 [[span class="label"]]@@[[div class="addendum"]]@@[[/span]]
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文乱数假文
 [[/div]]
 ----
-+ >> Header Angled
++ >> 斜体头图
 [[span class="label"]]@@[[image imagename.png class="angled"]]@@[[/span]]
 [[=image https://scp-wiki.wdfiles.com/local--files/tempest/newtempest.png class="angled"]]
 ----
-+ >> Foundation Divs
++ >> 基金会Divs
 
 [[div class="foundation"]]
-+++ FOUNDATION NOTICE
++++ 基金会通知
 [[span class="label"]]@@[[div class="foundation"]]@@[[/span]]
 @@ @@
 @@ @@
 [[/div]]
 
 [[div class="foundation snow"]]
-+++ FOUNDATION NOTICE 'SNOW'
++++ “如雪”一般的基金会通知
 [[span class="label"]]@@[[div class="foundation snow"]]@@[[/span]]
 @@ @@
 @@ @@
 [[/div]]
 
 [[div class="foundation raisa"]]
-+++ NOTICE FROM THE FOUNDATION RECORDS, ARCHIVAL, AND INFORMATION SECURITY ADMINISTRATION
++++ 基金会记录与信息安全管理部（RAISA）的通知
 [[span class="label"]]@@[[div class="foundation raisa"]]@@[[/span]]
 @@ @@
 @@ @@
 [[/div]]
 
 [[div class="foundation alt"]]
-+++ FOUNDATION NOTICE 'GUERRE'
++++ 如同“战争”的基金会通知
 [[span class="label"]]@@[[div class="foundation alt"]]@@[[/span]]
 @@ @@
 @@ @@
@@ -1083,7 +1083,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 ----
 + >> GOC div
 [[div class="addendum goc"]]
-+ GLOBAL OCCULT COALITION FILE
++ 全球超自然联盟档案
 ----
 [[span class="label"]]@@[[div class="addendum goc"]]@@[[/span]]
 @@ @@
@@ -1092,7 +1092,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 [[/div]]
 
 [[div class="addendum goc notice"]]
-+ GLOBAL OCCULT COALITION NOTICE
++ 全球超自然联盟通知
 ----
 [[span class="label"]]@@[[div class="addendum goc notice"]]@@[[/span]]
 @@ @@
@@ -1100,10 +1100,10 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 @@ @@
 [[/div]]
 ----
-+ >> Generic Color Divs
++ >> 通用带色 Divs
 
 [[div class="generic red"]]
-+ Generic FILESERV Notice
++ 一般文件存取通知
 ----
 [[span class="label"]]@@[[div class="generic red"]]@@[[/span]]
 @@ @@
@@ -1111,7 +1111,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 [[/div]]
 
 [[div class="generic blue"]]
-+ Generic FILESERV Notice
++ 一般文件存取通知
 ----
 [[span class="label"]]@@[[div class="generic blue"]]@@[[/span]]
 @@ @@
@@ -1119,7 +1119,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 [[/div]]
 
 [[div class="generic yellow"]]
-+ Generic FILESERV Notice
++ 一般文件存取通知
 ----
 [[span class="label"]]@@[[div class="generic yellow"]]@@[[/span]]
 @@ @@
@@ -1127,7 +1127,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 [[/div]]
 
 [[div class="generic purple"]]
-+ Generic FILESERV Notice
++ 一般文件存取通知
 ----
 [[span class="label"]]@@[[div class="generic purple"]]@@[[/span]]
 @@ @@
@@ -1135,25 +1135,25 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 [[/div]]
 
 ----
-+ >> Navbar
-REDTAPE also has a baked-in sick-ass modular navbar. Check out some of its variants:
++ >> 导航栏
+红丝带还有一个内置的、超酷的模块化导航栏。看看它们吧：
 ----
 +++ 001s
 
 [[div class="rnb-navbar"]]
 
 [[div class="rnb-item rnb-last goldproposal"]]
-[[a href="https://scp-wiki.wikidot.com/rounderhouse-gold-proposal" style="display: block;"]][[span class="rnb-supertitle"]]PREVIOUS[[/span]]
-<< GOLD PROPOSAL >>[[/a]]
+[[a href="https://scp-wiki-cn.wikidot.com/rounderhouse-gold-proposal" style="display: block;"]][[span class="rnb-supertitle"]]上个[[/span]]
+<< 黄金提案 >>[[/a]]
 [[/div]]
 
 [[div class="rnb-item rnb-current"]]
-REDTAPE
+红缎带
 [[/div]]
 
 [[div class="rnb-item rnb-next jadeproposal"]]
-[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]NEXT[[/span]]
-<< JADE PROPOSAL >>[[/a]]
+[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]下个[[/span]]
+<< 玉石提案 >>[[/a]]
 [[/div]]
 
 [[/div]]
@@ -1162,12 +1162,12 @@ REDTAPE
 
 
 
-+++ Series Entry w/ hub link
++++ 有中心页链接的系列条目
 
 [[div class="rnb-navbar"]]
 
 [[div class="rnb-item rnb-last"]]
-[[a href="https://scp-wiki.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]PREVIOUS[[/span]]
+[[a href="https://scp-wiki-cn.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]上个[[/span]]
 << TEMPEST >>[[/a]]
 [[/div]]
 
@@ -1176,7 +1176,7 @@ REDTAPE
 [[/div]]
 
 [[div class="rnb-item rnb-next"]]
-[[a href="https://scp-wiki.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]NEXT[[/span]]
+[[a href="https://scp-wiki-cn.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]下个[[/span]]
 << AIRGAP >>[[/a]]
 [[/div]]
 
@@ -1238,29 +1238,29 @@ RAISA
 [[collapsible show="+ Show theme code" hide="- Hide theme code"]]
 [[code type="css"]]
 /*
-REDTAPE Theme
+红缎带 版式
 [2022 Wikidot Theme]
-Created by ROUNDERHOUSE
-Thanks to estrellayoshte, stormbreath, stephlynch, Woedenaz for critique and help.
-Based on Black Highlighter Theme created by Woedenaz and Croquembouche.
-The clock logo was created by EstrellaYoshte, based off the SCP Foundation logo. Licensed under CC BY SA 3.0.
-The topography background was created by Steve Schoger of https://heropatterns.com, licensed under CC BY 4.0.
-The red tape design in the header was created by stephlynch, licensed under CC BY SA 3.0.
+由ROUNDERHOUSE创建
+感谢 estrellayoshte、stormbreath、stephlynch和Woedenaz的建议与帮助。
+基于Woedenaz和Croquembouche的黑色标记笔主题
+EstrellaYoshte 根据SCP基金会徽标创建了基于CC BY SA 3.0许可的时钟标志。
+在https://heropatterns.com上的Steve Schoger创建了地形图背景，并按照CC BY 4.0授权。
+版头中的红胶带由stephlynch设计，并按照CC BY SA 3.0授权
 */
 
-/* *** FONTS *** */
+/* *** FONT *** */
 @import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 
 /* *** ROOT VARS *** */
 
-:root {
+:root:lang(cn) {
     --theme-id: "REDTAPE";
     --theme-name: "REDTAPE";
     --logo-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/midnightwhite.png");
-    --header-title: "REDTAPE";
-    --header-subtitle: "{$years} Minutes to Midnight";
+    --header-title: "红缎带";
+    --header-subtitle: "离午夜还有{$years}分钟";
     --header-font: 'Secular One', sans-serif;
     --title-font: 'Secular One', sans-serif;
     --body-font: 'Telex', sans-serif;
@@ -2086,115 +2086,6 @@ rnb-.current.raisanav {
      width: 0.35rem;
      left: calc(50% - 0.19rem);
     }
-}
-[[/code]]
-
-[[code type="css"]]
-:root {
-    --swatch-text-general: var(--swatch-text-dark);
-    --swatch-background: var(--black-monochrome);
-    --swatch-text-tertiary-color: var(--dark-accent);
-    --toggle-button-bg: rgb(var(--black-monochrome));
-}
-
-div.obj {
-    color: rgb(var(--white-monochrome)) !important;
-}
-
-div.objclass::before {
-    background-color: rgb(var(--white-monochrome)) !important;
-}
-
-#page-content a:visited {
-    color: #E74E45;
-}
-
-#content-wrap:before {
-    background-image: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/topo.png);
-}
-
-#content-wrap {
-    background-color: #0000005c;
-}
-
-#extra-div-1 {
-    background: #111;
-}
-
-#extra-div-2 {
-    filter: none;
-    -webkit-filter: none;
-}
-
-blockquote,
-.blockquote,
-div.blockquote,
-[class*="blockquote"] {
-    background: #151515!important;
-}
-
-hr {
-    border-color: #0e0e0e;
-}
-
-.bibitems,
-.footnotes-footer {
-    background-color: #5c5a5a70;
-}
-
-.image-block,
-.scp-image-block {
-    box-shadow: 0px 0px 4px rgb(var(--medium-accent));
-}
-
-.yui-navset .yui-content {
-    background: rgba(var(--black-monochrome), .75);
-}
-
-.yui-navset .yui-nav li a,
-.yui-navset-top .yui-nav li a,
-.yui-navset-bottom .yui-nav li a {
-    background: rgb(var(--black-monochrome)) !important;
-}
-
-.addendum {
-    background: #1C1C1C;
-    color: white;
-}
-
-.addendum hr {
-    border-color: #1C1C1C;
-}
-
-.goc {
-    background-color: #111;
-    color: #fff;
-}
-
-.generic {
-    border-color: #e4e1e1;
-}
-
-.generic hr {
-    background: #e4e1e1;
-}
-
-.generic h1,
-.generic h2,
-.generic h3,
-.generic h4,
-.generic h5,
-.generic h6 {
-    color: #e4e1e1;
-}
-
-.rnb-next,
-.rnb-last {
-    background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/topo.png');
-}
-
-.rnb-supertitle {
-    color: rgb(var(--white-monochrome));
 }
 [[/code]]
 [[/collapsible]]
