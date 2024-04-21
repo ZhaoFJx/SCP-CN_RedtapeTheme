@@ -2,7 +2,7 @@
 site: scpsandboxcn
 page: theme:redtape
 title: 红缎带 版式
-revision: 78
+revision: 83
 ---
 [[module CSS]]
 @import url("https://bhl.scpwikicn.com/css/min/normalize.min.css");
@@ -1138,7 +1138,7 @@ rnb-.current.raisanav {
 + >> 导航栏
 红丝带还有一个内置的、超酷的模块化导航栏。看看它们吧：
 ----
-+++ 001s
++++ 001提案
 
 [[div class="rnb-navbar"]]
 
@@ -1168,7 +1168,7 @@ rnb-.current.raisanav {
 
 [[div class="rnb-item rnb-last"]]
 [[a href="https://scp-wiki-cn.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]上个[[/span]]
-<< TEMPEST >>[[/a]]
+<< 飓风 >>[[/a]]
 [[/div]]
 
 [[div class="rnb-item rnb-current site7nav"]]
@@ -1177,7 +1177,7 @@ rnb-.current.raisanav {
 
 [[div class="rnb-item rnb-next"]]
 [[a href="https://scp-wiki-cn.wikidot.com/airgap" style="display: block;"]][[span class="rnb-supertitle"]]下个[[/span]]
-<< AIRGAP >>[[/a]]
+<< 气隙 >>[[/a]]
 [[/div]]
 
 [[/div]]
@@ -1187,17 +1187,17 @@ rnb-.current.raisanav {
 
 
 
-+++ First entry in a series
++++ 系列中的首作
 
 [[div class="rnb-navbar"]]
 
 [[div class="rnb-item rnb-current gocnav"]]
-DOGS OF WAR
+战争之犬
 [[/div]]
 
 [[div class="rnb-item rnb-next"]]
-[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]NEXT[[/span]]
-<< WEAPONS FREE >>[[/a]]
+[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]下个[[/span]]
+<< 自由开火 >>[[/a]]
 [[/div]]
 
 [[/div]]
@@ -1206,12 +1206,12 @@ DOGS OF WAR
 
 
 
-+++ Most Recent entry in a series
++++ 系列中的新作
 
 [[div class="rnb-navbar"]]
 
 [[div class="rnb-item rnb-last"]]
-[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]PREVIOUS[[/span]]
+[[a href="#navbar" style="display: block;"]][[span class="rnb-supertitle"]]上个[[/span]]
 << SCP-6781 >>[[/a]]
 [[/div]]
 
@@ -1220,7 +1220,7 @@ RAISA
 [[/div]]
 
 [[div class="rnb-item rnb-next"]]
-[[span class="rnb-supertitle"]]COMING SOON[[/span]]
+[[span class="rnb-supertitle"]]即将推出[[/span]]
 [[/div]]
 
 
@@ -1228,9 +1228,9 @@ RAISA
 ----
 
 [[=]]
-[[span style="font-family: var(--header-font);"]]The Header and Title font is Secular One.[[/span]]
-[[span style="font-family: var(--body-font);"]]The Body font is Telex.[[/span]]
-[[span style="font-family: var(--mono-font);"]]The Monospace font used is PT Mono.[[/span]]
+[[span style="font-family: var(--header-font);"]]正文、标题和页眉字体为Secular One[[/span]]
+[[span style="font-family: var(--body-font);"]]T用户界面字体为Telex[[/span]]
+[[span style="font-family: var(--mono-font);"]]等宽字为PT Mono[[/span]]
 [[/=]]
 
 ----
