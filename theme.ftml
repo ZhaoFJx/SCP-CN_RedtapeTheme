@@ -1,7 +1,8 @@
 ---
 site: scpsandboxcn
 page: theme:redtape
-revision: 19
+title: 红缎带亮色段落
+revision: 26
 ---
 [[module CSS]]
 /*
@@ -22,12 +23,12 @@ EstrellaYoshte 根据SCP基金会徽标创建了基于CC BY SA 3.0许可的时�
 
 /* *** ROOT VARS *** */
 
-:root:(zh) {
+:root:lang(cn) {
 	--theme-id: "REDTAPE";
 	--theme-name: "REDTAPE";
 	--logo-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/midnightwhite.png");
-	--header-title: "REDTAPE";
-	--header-subtitle: "{$years} Minutes to Midnight";
+	--header-title: "红缎带";
+	--header-subtitle: "离午夜还有{$years}分钟";
 	--header-font: 'Secular One', sans-serif;
 	--title-font: 'Secular One', sans-serif;
 	--body-font: 'Telex', sans-serif;
