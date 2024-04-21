@@ -1,19 +1,18 @@
 ---
 site: scpsandboxcn
 page: theme:redtape
-revision: 27
-title: 红缎带亮色段落
+title: 红缎带 版式
+revision: 31
 ---
-[[include :scp-wiki-cn:theme:black-highlighter-theme]]
 [!-- FRAGMENTS
-https://scp-wiki.wikidot.com/fragment:redtape-light
-https://scp-wiki.wikidot.com/fragment:redtape-dark
+https://scp-wiki-cn.wikidot.com/fragment:redtape-light
+https://scp-wiki-cn.wikidot.com/fragment:redtape-dark
 --]
 
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 [[module css]]
-@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Aredtape/1")
+[[include :scp-wiki-cn:fragment:redtape-light]]
 [[/module]]
 [!-- {$dark}
 [[module css]]
