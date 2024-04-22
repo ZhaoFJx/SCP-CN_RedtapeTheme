@@ -1,20 +1,16 @@
----
-site: scpsandboxcn
-page: theme:redtape
-title: 红缎带 版式
-revision: 6
----
+[!-- 顺便去看看段落！
+https://scp-wiki-cn.wikidot.com/fragment:redtape-light
+https://scp-wiki-cn.wikidot.com/fragment:redtape-dark
+--]
+
 [[iftags +版式]]
 [[module CSS]]
 @import url("https://bhl.scpwikicn.com/css/min/normalize.min.css");
 @import url("https://bhl.scpwikicn.com/css/min/black-highlighter.min.css");
 [[/module]]
+[[/iftags]]
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
-
-
-[[/iftags]]
-
 [[module CSS]]
 /*
 红缎带 版式
@@ -867,9 +863,7 @@ rnb-.current.raisanav {
     }
 }
 [[/module]]
-
 [[iftags +版式]]
-
 [[include :scp-wiki-cn:component:interwiki-style
 | priority=1
 | theme=https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css
@@ -885,7 +879,7 @@ rnb-.current.raisanav {
 [[/div]]
 
 [[=]]
-+ [https://scp-wiki-cn.wikidot.com/theme:redtape/offset/0 亮色] / [https://scp-wiki.wikidot-cn.com/theme:redtape/offset/1 暗色]
++ [https://scp-wiki-cn.wikidot.com/theme:redtape/offset/0 亮色] / [https://scp-wiki-cn.wikidot.com/theme:redtape/offset/1 暗色]
 [[/=]]
 
 [[div_ style="filter: none;"]]
@@ -909,7 +903,7 @@ rnb-.current.raisanav {
 [[/=]]
 
 [[include :scp-wiki:component:theme-squares -=-
-| color1-name=军舰灰
+| color1-name=军舰艇
 | color1-variable=--gray-monochrome
 | color1-info=#424248
 | color2-name=耐火砖
@@ -1143,7 +1137,7 @@ rnb-.current.raisanav {
 
 ----
 + >> 导航栏
-红丝带还有一个内置的、超酷的模块化导航栏。看看它们吧：
+红缎带还有一个内置的、超酷的模块化导航栏。看看它们吧：
 ----
 +++ 001提案
 
