@@ -842,3 +842,111 @@ rnb-.current.raisanav {
      left: calc(50% - 0.19rem);
     }
 }
+
+{$dark}
+:root {
+	--swatch-text-general: var(--swatch-text-dark);
+	--swatch-background: var(--black-monochrome);
+	--swatch-text-tertiary-color: var(--dark-accent);
+	--toggle-button-bg: rgb(var(--black-monochrome));
+}
+
+div.obj {
+	color: rgb(var(--white-monochrome)) !important;
+}
+
+div.objclass::before {
+	background-color: rgb(var(--white-monochrome)) !important;
+}
+
+#page-content a:visited {
+	color: #E74E45;
+}
+
+#content-wrap:before {
+	background-image: url(https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/topo.png);
+}
+
+#content-wrap {
+	background-color: #0000005c;
+}
+
+#extra-div-1 {
+	background: #111;
+}
+
+#extra-div-2 {
+	filter: none;
+	-webkit-filter: none;
+}
+
+blockquote,
+.blockquote,
+div.blockquote,
+[class*="blockquote"] {
+	background: #151515!important;
+}
+
+hr {
+	border-color: #0e0e0e;
+}
+
+.bibitems,
+.footnotes-footer {
+	background-color: #5c5a5a70;
+}
+
+.image-block,
+.scp-image-block {
+	box-shadow: 0px 0px 4px rgb(var(--medium-accent));
+}
+
+.yui-navset .yui-content {
+	background: rgba(var(--black-monochrome), .75);
+}
+
+.yui-navset .yui-nav li a,
+.yui-navset-top .yui-nav li a,
+.yui-navset-bottom .yui-nav li a {
+	background: rgb(var(--black-monochrome)) !important;
+}
+
+.addendum {
+	background: #1C1C1C;
+	color: white;
+}
+
+.addendum hr {
+	border-color: #1C1C1C;
+}
+
+.goc {
+	background-color: #111;
+	color: #fff;
+}
+
+.generic {
+	border-color: #e4e1e1;
+}
+
+.generic hr {
+	background: #e4e1e1;
+}
+
+.generic h1,
+.generic h2,
+.generic h3,
+.generic h4,
+.generic h5,
+.generic h6 {
+	color: #e4e1e1;
+}
+
+.rnb-next,
+.rnb-last {
+	background-image: url('https://scp-wiki.wdfiles.com/local--files/theme%3Aredtape/topo.png');
+}
+
+.rnb-supertitle {
+	color: rgb(var(--white-monochrome));
+}
