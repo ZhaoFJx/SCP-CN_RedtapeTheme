@@ -4,18 +4,19 @@ page: theme:redtape
 title: 红缎带 版式
 tags:
   - 版式
-revision: 16
+revision: 18
 ---
 [!-- 顺便去看看段落！
 https://scp-wiki-cn.wikidot.com/fragment:redtape-light
 https://scp-wiki-cn.wikidot.com/fragment:redtape-dark
 --]
-
+[!-- 维修中，请勿编辑--]
 [[iftags +版式]]
 [[module CSS]]
 @import url("https://bhl.scpwikicn.com/css/min/normalize.min.css");
 @import url("https://bhl.scpwikicn.com/css/min/black-highlighter.min.css");
 [[/module]]
+[!--  我是不会告诉你暗色模式还没做好的…… --]
 [[/iftags]]
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
