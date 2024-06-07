@@ -16,7 +16,7 @@ https://scp-wiki-cn.wikidot.com/fragment:redtape-dark
 @import url("https://bhl.scpwikicn.com/css/min/normalize.min.css");
 @import url("https://bhl.scpwikicn.com/css/min/black-highlighter.min.css");
 [[/module]]
-[!--  我是不会告诉你暗色模式还没做好的…… --]
+[!--  我是不会告诉你暗色模式还没做好的…… --]    
 [[/iftags]]
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
